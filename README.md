@@ -1,8 +1,3 @@
 # alvinwu408.github.io
 
-111
-
-11
-1
-
-1111
+2017/06/10, 第一次開始使用 GitHub Pages
